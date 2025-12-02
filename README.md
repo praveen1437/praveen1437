@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Praveen
 - 👀 I’m interested in Coding and learning new Technologies
-- 🌱 I’m currently learning Angular
 
 <!---
 praveen1437/praveen1437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
